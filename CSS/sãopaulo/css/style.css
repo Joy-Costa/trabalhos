@@ -1,0 +1,41 @@
+body{
+    background-color: #FFF1D6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.6; /*Aumenta a Altura entre as linhas*/
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+main{
+    margin:0 auto;
+    width: 660px;
+    float: left;
+}
+
+h1:hover{
+    background-color: #7e9f19;
+    color: #FFF;
+}
+
+section{
+    background-color: #FFF;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+section h2{
+    border-bottom: 1px dashed #7e9f19;
+    margin: 0;
+}
+
+section img{
+     border: 1px solid #7e9f19;
+     float: left;
+     margin: 10px 10px 0 0;
+     padding: 2px;
+}
+
+.clear{
+    clear: both;
+}

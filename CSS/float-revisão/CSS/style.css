@@ -1,0 +1,30 @@
+.box{
+    background-color: dodgerblue;
+    border: 1px solid black;
+    float: left;
+    height: 300px;
+    width: 200px;
+}
+
+nav{ 
+   width: 100%;
+   float: left;
+}
+
+.div1{
+    background-color: blue;
+    float: left;
+    width: 33%;
+}
+
+.div2{
+    background-color: blueviolet;
+    float: left;
+    width: 33%;
+}
+
+.div3{
+    background-color: deeppink;
+    float: left;
+    width: 33%;
+}

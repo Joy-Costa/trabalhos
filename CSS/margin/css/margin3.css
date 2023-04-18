@@ -1,0 +1,23 @@
+.Nav{
+    margin: 25px 50px 75px 100px;
+    border: 3px solid rgb(197, 67, 88);
+    background-color: lightcoral;
+}
+
+.Section{
+  margin: 25px 50px 75px;
+  border: 3px solid rebeccapurple;
+  background-color: rgb(146, 127, 255);
+}
+
+.article{
+    margin:25px 50px;
+    border: 3px solid green;
+    background-color:greenyellow
+}
+
+.footer{
+    border: 3px solid purple;
+    width: 300px;
+    margin: auto;
+}
